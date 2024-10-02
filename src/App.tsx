@@ -1,5 +1,6 @@
 import "./App.css";
-import ViewBasedAnimation from "./components/ViewBasedAnimation";
+import ScrollAnimation from "./components/ScrollAnimation";
+// import ViewBasedAnimation from "./components/ViewBasedAnimation";
 // import AnimationControls from "./components/AnimationControls";
 // import Gestures from "./components/Gestures";
 // import BasicMotion from "./components/BasicMotion";
@@ -12,7 +13,8 @@ function App() {
         {/* <BasicMotion /> */}
         {/* <Gestures /> */}
         {/* <AnimationControls /> */}
-        <ViewBasedAnimation />
+        {/* <ViewBasedAnimation /> */}
+        <ScrollAnimation />
       </div>
       {/* </div> */}
     </>
